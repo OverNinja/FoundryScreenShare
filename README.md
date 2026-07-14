@@ -88,8 +88,8 @@ To display a screen share, you must first place a compatible object on the canva
 
 *Note: Only one container can be marked as the active screen share target per scene. If another object is already set as the container, the checkbox on other objects will be disabled.*
 
-<!-- PLACEHOLDER: Print of Container Configuration Screen showing the Screen Share tab and toggle -->
-![Placeholder: Container Configuration Toggle Screen](doc/sheet.png)
+<!-- Print of Container Configuration Screen showing the Screen Share tab and toggle -->
+![Container Configuration Toggle Screen](doc/config-sheet.png)
 
 ---
 
@@ -121,8 +121,8 @@ Once a container is designated, the GM can start broadcasting:
 ---
 
 ### 4. Dedicated Controls Tool Group
-<!-- PLACEHOLDER: Print of Browser Screen Selection Dialog / Active stream rendering on Canvas -->
-![Placeholder: Start Stream Screen Selection](doc/tool.png)
+<!-- Print of Browser Screen Selection Dialog / Active stream rendering on Canvas -->
+![Start Stream Screen Selection](doc/tool.png)
 
 
 The dedicated **Screen Share Controls** tool group (visible only to Gamemasters) includes the following tools for managing your broadcast:
@@ -131,8 +131,8 @@ The dedicated **Screen Share Controls** tool group (visible only to Gamemasters)
 * **Remove Screen Container Mark**: Clears the container flag from whichever object in the active scene is currently marked as the screen container, without needing to open its sheet.
 * **Select Streaming Backend**: Opens a dialog where GMs can select the active streaming provider (e.g., Local Screen Share, WebRTC Screen Share, or LiveKit Stream Share).
 
-<!-- PLACEHOLDER: Print of the left Scene Controls bar showing the Screen Share Controls tool group and buttons -->
-![Placeholder: Controls Tool Group Buttons](doc/placeholder_tool_group.png)
+<!-- Print of the left Scene Controls bar showing the Screen Share Controls tool group and buttons -->
+![Controls Tool Group Buttons](doc/placeholder_tool_group.png)
 
 ---
 
