@@ -1,0 +1,17 @@
+{
+  "id": "screen-share",
+  "title": "Screen Share",
+  "description": "Allows GMs to share their screen directly onto canvas regions.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "socket": true,
+  "esmodules": [
+    "screen-share.js"
+  ],
+  "relationships": {
+    "requires": []
+  }
+}
