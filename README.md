@@ -56,7 +56,7 @@ Open the configuration sheet of any of the following types, navigate to the **Sc
    ![Tiles](doc/tile.png)
 
 3. **Drawings**:
-   - Best for simple drawing shapes (rectangles, ellipses, custom polygons).
+   - For any drawing shape, the video is clipped to the boundaries of the shape, like with regions, but only one shape is possible.
    
    ![Drawings](doc/drawing.png)
 
