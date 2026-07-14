@@ -28,9 +28,13 @@
 1. Open the Foundry VTT Setup screen.
 2. Go to the **Add-on Modules** tab.
 3. Click **Install Module**.
-4. In the **Manifest URL** field, paste the link to the `module.json` file for this module.
+4. In the **Manifest URL** field, paste the following link:
+   ```
+   https://raw.githubusercontent.com/OverNinja/FoundryScreenShare/main/module.json
+   ```
 5. Click **Install**.
 6. Activate the module inside your World settings.
+
 
 ---
 
